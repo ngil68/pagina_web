@@ -1,6 +1,7 @@
-# pagina_web
+# pagina_web : 4teso20172018_paginaweb
 
-Hola aquest és el meu projecte de info
+Optativa 4t ESO 2017 2018
 
+2n Quadrimestre
 
-Neil Gil
+Projecte pagina web
